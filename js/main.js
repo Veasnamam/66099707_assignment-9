@@ -12,6 +12,7 @@ given in the comments.
 // https://jsonplaceholder.typicode.com/guide/
 ///////////////////////
 
+
 // 1) Create a function named "getAllPosts".
 // Use Fetch with Async/Await to request
 // all the posts. The function should
